@@ -1,4 +1,4 @@
-# Databricks-AI-Playground-
+# Databricks-Generative AI 
 
 ### Tutorials
 - https://www.databricks.com/resources/demos/library?itm_data=demo_center
