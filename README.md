@@ -3,7 +3,7 @@
 ### Prompting, RAG,Fine-tuning, Pre-training 
 - https://www.databricks.com/product/machine-learning/build-generative-ai
 
-### Chat with supported LLMs using AI Playground
+### Prompting & evaluating : chat with supported LLMs using AI Playground
 - https://docs.databricks.com/en/large-language-models/ai-playground.html
 
 ### DBRX open source 
