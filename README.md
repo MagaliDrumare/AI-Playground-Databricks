@@ -1,5 +1,8 @@
 # Databricks-Generative AI 
 
+### Prompting, RAG,Fine-tuning, Pre-training 
+- https://www.databricks.com/product/machine-learning/build-generative-ai
+
 ### Chat with supported LLMs using AI Playground
 - https://docs.databricks.com/en/large-language-models/ai-playground.html
 
