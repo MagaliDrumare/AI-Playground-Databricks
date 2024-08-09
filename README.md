@@ -15,6 +15,10 @@ Mosaic AI Model Training can fine-tune smaller open source GenAI LLMs to produce
 You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
 - https://docs.databricks.com/en/large-language-models/ai-playground.html
 
+### LLM Finetuning 
+Fine-tuning adapts an existing general-purpose LLM model by doing additional training 
+- https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
+
 ### DBRX open source 
 Databricks introduces DBRX, an open-source LLM that outperforms existing open-source models on standard benchmarks.
 DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed, with 132 billion parameters, customizable for enterprise tasks.
