@@ -32,5 +32,9 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 ### Tutorials
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
+
+### Databricks and Tableau 
+- Intro to Tableau and Databricks : https://vimeo.com/754855816
+- Tableau Desktop and Databricks : https://www.databricks.com/resources/demos/videos/partner/tableau
   
   
