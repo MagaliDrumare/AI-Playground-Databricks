@@ -27,8 +27,7 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 
 ### Fine-tuning your LLM with Databricks Mosaic AI 
 - https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
-      Same tutorial as in Snowflake
-      - (https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0 /https://github.com/MagaliDrumare/Snowflake-Cortex-AI-Mistral-7b )
+- Same tutorial as in Snowflake : https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0 /https://github.com/MagaliDrumare/Snowflake-Cortex-AI-Mistral-7b )
 
 ### Tutorials
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
