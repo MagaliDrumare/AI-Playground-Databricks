@@ -25,6 +25,10 @@ DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed,
 Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Platform for high-quality AI applications.
 - https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms
 
+### Fine-tuning your LLM with Databricks Mosaic AI 
+- https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
+Same tutorial as in Snowflake (https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0 /https://github.com/MagaliDrumare/Snowflake-Cortex-AI-Mistral-7b )
+
 ### Tutorials
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
