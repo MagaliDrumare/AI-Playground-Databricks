@@ -36,7 +36,7 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 # Databricks and Tableau 
 ### Databricks Trial : https://www.databricks.com/try-databricks
 ### Tableau Cloud Trial : https://www.tableau.com/fr-fr/products/trial
-### AWS Cloud Console Trail : https://aws.amazon.com/fr/free/
+### AWS Cloud Console Trial : https://aws.amazon.com/fr/free/
 ### Intro to Tableau and Databricks : 
 - https://vimeo.com/754855816
 ### Tableau Desktop and Databricks :
