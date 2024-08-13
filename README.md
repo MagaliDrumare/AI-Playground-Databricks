@@ -1,4 +1,4 @@
-# Databricks-Generative AI 
+# 🚀 Databricks-Generative AI 
 
 ### Prompting, RAG, Fine-tuning, Pre-training on Databricks 
 Prompt engineering is the practice of customizing prompts to elicit better responses without changing the underlying model. 
@@ -33,7 +33,7 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
 
-# Databricks and Tableau 
+# 🚀  Databricks and Tableau 
 ### Databricks Trial : https://www.databricks.com/try-databricks
 ### Tableau Cloud Trial : https://www.tableau.com/fr-fr/products/trial
 ### AWS Cloud Console Trial : https://aws.amazon.com/fr/free/
