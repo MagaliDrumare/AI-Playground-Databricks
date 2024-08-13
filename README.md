@@ -29,12 +29,17 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 - https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
 - Same usa case in snowflake : https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0 /https://github.com/MagaliDrumare/Snowflake-Cortex-AI-Mistral-7b )
 
-### Tutorials
+### Databricks Tutorials
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
 
-### Databricks and Tableau 
-- Intro to Tableau and Databricks : https://vimeo.com/754855816
-- Tableau Desktop and Databricks : https://www.databricks.com/resources/demos/videos/partner/tableau
+# Databricks and Tableau 
+### Databricks Trial : https://www.databricks.com/try-databricks
+### Tableau Cloud Trial : https://www.tableau.com/fr-fr/products/trial
+### AWS Cloud Console Trail : https://aws.amazon.com/fr/free/
+### Intro to Tableau and Databricks : 
+- https://vimeo.com/754855816
+### Tableau Desktop and Databricks :
+-https://www.databricks.com/resources/demos/videos/partner/tableau
   
   
