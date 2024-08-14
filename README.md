@@ -6,6 +6,9 @@ RAG finds data/documents that are relevant to a question or task and provides th
 Fine-tuning adapts an existing general-purpose LLM model by doing additional training 
 Pretraining is the practice of building a new LLM model from scratch to ensure the foundational knowledge of the model is tailored to your specific domain.
 - https://www.databricks.com/product/machine-learning/build-generative-ai
+Data + AI Summit 2024 - Generative -July 2024
+- https://youtube.com/playlist?list=PLTPXxbhUt-YWg-wMEwutGDl-K9aOXUZjV&feature=shared
+
 
 ### Mosaic AI Model Training
 Mosaic AI Model Training can fine-tune smaller open source GenAI LLMs to produce highly efficient models that can be served up to 5x more cost-effectively than larger proprietary LLMs. Additionally, you can build new LLMs from scratch using an optimized software stack that makes training LLMs cost-effective. A combination of system-level optimizations, tuned parallelism strategies and model training science results in a 10x lower cost of training.
@@ -23,11 +26,11 @@ Fine-tuning adapts an existing general-purpose LLM model by doing additional tra
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
 
-# 🚀 Prompting & evaluating : chat with supported LLMs using AI Playground - 30 july 2024
+# 🚀 Prompting & evaluating : chat with supported LLMs using AI Playground - 30 July 2024
 You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
 - https://docs.databricks.com/en/large-language-models/ai-playground.html
 
-# 🚀 DBRX open source - 27 march 2024
+# 🚀 DBRX open source - 27 March 2024
 Databricks introduces DBRX, an open-source LLM that outperforms existing open-source models on standard benchmarks.
 DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed, with 132 billion parameters, customizable for enterprise tasks.
 Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Platform for high-quality AI applications.
