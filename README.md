@@ -11,15 +11,15 @@ Pretraining is the practice of building a new LLM model from scratch to ensure t
 Mosaic AI Model Training can fine-tune smaller open source GenAI LLMs to produce highly efficient models that can be served up to 5x more cost-effectively than larger proprietary LLMs. Additionally, you can build new LLMs from scratch using an optimized software stack that makes training LLMs cost-effective. A combination of system-level optimizations, tuned parallelism strategies and model training science results in a 10x lower cost of training.
 - https://www.databricks.com/product/machine-learning/mosaic-ai-training
 
-### Prompting & evaluating : chat with supported LLMs using AI Playground
-You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
-- https://docs.databricks.com/en/large-language-models/ai-playground.html
-
 ### LLM Finetuning 
 Fine-tuning adapts an existing general-purpose LLM model by doing additional training 
 - https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
 
-### DBRX open source 
+# Prompting & evaluating : chat with supported LLMs using AI Playground - 30 july 2024
+You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
+- https://docs.databricks.com/en/large-language-models/ai-playground.html
+
+# DBRX open source - 27 march 2024
 Databricks introduces DBRX, an open-source LLM that outperforms existing open-source models on standard benchmarks.
 DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed, with 132 billion parameters, customizable for enterprise tasks.
 Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Platform for high-quality AI applications.
