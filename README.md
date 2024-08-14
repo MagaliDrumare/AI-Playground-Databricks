@@ -15,16 +15,6 @@ Mosaic AI Model Training can fine-tune smaller open source GenAI LLMs to produce
 Fine-tuning adapts an existing general-purpose LLM model by doing additional training 
 - https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
 
-# Prompting & evaluating : chat with supported LLMs using AI Playground - 30 july 2024
-You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
-- https://docs.databricks.com/en/large-language-models/ai-playground.html
-
-# DBRX open source - 27 march 2024
-Databricks introduces DBRX, an open-source LLM that outperforms existing open-source models on standard benchmarks.
-DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed, with 132 billion parameters, customizable for enterprise tasks.
-Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Platform for high-quality AI applications.
-- https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms
-
 ### Fine-tuning your LLM with Databricks Mosaic AI 
 - https://notebooks.databricks.com/demos/llm-fine-tuning/index.html#
 - Same usa case in snowflake : https://quickstarts.snowflake.com/guide/finetuning_llm_using_snowflake_cortex_ai/index.html#0 /https://github.com/MagaliDrumare/Snowflake-Cortex-AI-Mistral-7b )
@@ -32,6 +22,16 @@ Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Pl
 ### Databricks Tutorials
 - On Generative AI:  https://www.databricks.com/resources/demos/library?itm_data=demo_center
 - On LLM : https://www.databricks.com/glossary/large-language-models-llm
+
+# 🚀 Prompting & evaluating : chat with supported LLMs using AI Playground - 30 july 2024
+You can interact with supported large language models using the AI Playground. The AI Playground is a chat-like environment where you can test, prompt, and compare LLMs.
+- https://docs.databricks.com/en/large-language-models/ai-playground.html
+
+# 🚀 DBRX open source - 27 march 2024
+Databricks introduces DBRX, an open-source LLM that outperforms existing open-source models on standard benchmarks.
+DBRX uses a Mixture-of-Experts (MoE) architecture for high efficiency and speed, with 132 billion parameters, customizable for enterprise tasks.
+Enterprises like NASDAQ and JetBlue leverage the Databricks Data Intelligence Platform for high-quality AI applications.
+- https://www.databricks.com/blog/announcing-dbrx-new-standard-efficient-open-source-customizable-llms
 
 # 🚀  Databricks and Tableau Software
 ### Databricks Trial : 
