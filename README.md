@@ -1,6 +1,6 @@
-# 🚀 Databricks-Generative AI 
+# Databricks Generative AI 
 
-### Prompting, RAG, Fine-tuning, Pre-training on Databricks 
+# Prompting, RAG, Fine-tuning, Pre-training on Databricks 
 Prompt engineering is the practice of customizing prompts to elicit better responses without changing the underlying model. 
 RAG finds data/documents that are relevant to a question or task and provides them as context for the LLM to give more relevant responses. 
 Fine-tuning adapts an existing general-purpose LLM model by doing additional training 
