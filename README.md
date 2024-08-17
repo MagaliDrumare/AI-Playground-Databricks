@@ -1,4 +1,4 @@
-# Databricks Generative AI 
+j'y# Databricks Generative AI 
 
 # 🚀 Prompting, RAG, Fine-tuning, Pre-training on Databricks 
 ### Prompt engineering is the practice of customizing prompts to elicit better responses without changing the underlying model. 
@@ -7,7 +7,7 @@ Fine-tuning adapts an existing general-purpose LLM model by doing additional tra
 Pretraining is the practice of building a new LLM model from scratch to ensure the foundational knowledge of the model is tailored to your specific domain.
 - https://www.databricks.com/product/machine-learning/build-generative-ai
 
-### Data + AI Summit 2024 - Generative -July 2024
+### Data + AI Summit 2024 - Generative AI Playlist -July 2024
 - https://youtube.com/playlist?list=PLTPXxbhUt-YWg-wMEwutGDl-K9aOXUZjV&feature=shared
 
 
