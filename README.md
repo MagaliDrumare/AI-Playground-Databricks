@@ -1,4 +1,4 @@
-j'y# Databricks Generative AI 
+# Databricks Generative AI 
 
 # 🚀 Prompting, RAG, Fine-tuning, Pre-training on Databricks 
 ### Prompt engineering is the practice of customizing prompts to elicit better responses without changing the underlying model. 
