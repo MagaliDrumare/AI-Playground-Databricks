@@ -1,5 +1,8 @@
 # Databricks Generative AI 
 
+### Databricks Generative AI Quizz (made by chatGPT)
+- https://h7sedmrabypliceppiqkkk.streamlit.app/
+
 # 🚀 Prompting, RAG, Fine-tuning, Pre-training on Databricks 
 ### Prompt engineering is the practice of customizing prompts to elicit better responses without changing the underlying model. 
 RAG finds data/documents that are relevant to a question or task and provides them as context for the LLM to give more relevant responses. 
