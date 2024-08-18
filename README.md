@@ -1,6 +1,6 @@
 # Databricks Generative AI 
 
-### Databricks Generative AI Quizz (made by chatGPT)
+### Databricks Generative AI Quizz (made with chatGPT 4.0 mini )
 - https://h7sedmrabypliceppiqkkk.streamlit.app/
 
 # 🚀 Prompting, RAG, Fine-tuning, Pre-training on Databricks 
