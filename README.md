@@ -1,6 +1,6 @@
 # Databricks Generative AI 
 
-### Databricks Generative AI video : 
+### Databricks Generative AI video (21'49) : 
 - https://youtu.be/tDmCBkImUCY
 
 ### Databricks Generative AI Quizz : 
