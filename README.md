@@ -1,7 +1,7 @@
 # Databricks Generative AI 
 
 ### Databricks Generative AI video : 
-[![Watch the video](https://i9.ytimg.com/vi_webp/tDmCBkImUCY/mq1.webp?sqp=CMi--rYG-oaymwEmCMACELQB8quKqQMa8AEB-AHSCIAC0AWKAgwIABABGH8gFigcMA8=&rs=AOn4CLD1ShmTPDUuZQNON4QPoMxgcladRg)](https://youtu.be/tDmCBkImUCY)
+- https://youtu.be/tDmCBkImUCY
 
 ### Databricks Generative AI Quizz : 
 - https://h7sedmrabypliceppiqkkk.streamlit.app/
